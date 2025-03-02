@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\billy\source\repos\Pong\SDLSimple\main.cpp(40,29): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\billy\source\repos\Pong\SDLSimple\main.cpp(41,29): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\billy\source\repos\Pong\Debug\SDLSimple.exe
