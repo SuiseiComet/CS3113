@@ -116,7 +116,7 @@ GLuint player_2_wins_texture_id;
 
 constexpr float PADDLE_SPEED = 3.0f,   //speed of paddles
                 COMPUTER_PADDLE_SPEED = 1.0f,
-                PADDLE_RADIUS = 3.45f,
+                PADDLE_RADIUS = 3.35f,
                 BALL_SPEED = 1.5f;
 
 bool in_one_player_mode = false,
